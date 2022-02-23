@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands appeal to the Parliament at Oxford, March 21st, 1680/1</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38379</idno>
+            <idno type="STC">Wing E2945</idno>
+            <idno type="STC">ESTC R4818</idno>
+            <idno type="EEBO-CITATION">12791744</idno>
+            <idno type="OCLC">ocm 12791744</idno>
+            <idno type="VID">93948</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38379)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93948)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 379:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands appeal to the Parliament at Oxford, March 21st, 1680/1</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England --  History --  17th century.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:93948:1" rendition="simple:additions"/>
+            <head>Englands Appeal TO THE PARLIAMENT AT OXFORD,</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 21<hi rend="sup">ſt.</hi> 1680/1.</date>
+               </dateline>
+               <salute>Moſt Worthy Senators,</salute>
+            </opener>
+            <p>OUR Diſtempers are many and Grievous, our preſſures heavy and Burthenſom, our Application we make to you, through the Bleſſing of God you are the means of our help, and as Parliaments are conſtituted by <hi>Law,</hi> called by the <hi>King,</hi> Choſen by the <hi>People,</hi> and all this for theſe ends? Either Humbly to Counſel the <hi>King,</hi> to provide for the ſafe<g ref="char:EOLhyphen"/>ty of the <hi>Subject,</hi> to prevent the Conſpira<g ref="char:EOLhyphen"/>cies of our <hi>Enemies;</hi> of which we have many; principally the Papiſts, who for theſe hundred years have Perſecuted and De<g ref="char:EOLhyphen"/>moliſhed the Proteſtant Intereſt in <hi>England, Scotland, Ireland,</hi> and likewiſe in all parts of <hi>Europe;</hi> their implacable rage hath tranſcend<g ref="char:EOLhyphen"/>ed all the Malice and Miſchief of former Ages Cruelty, whether of the <hi>Aſſyrians</hi> and <hi>Phili<g ref="char:EOLhyphen"/>ſtins</hi> of old to the <hi>Iſraelites,</hi> or the laſt ten Per<g ref="char:EOLhyphen"/>ſecuting <hi>Heathen Emperours</hi> to the <hi>Primitive Chriſtians.</hi>
+            </p>
+            <p>But thoſe <hi>(moſt Worthy Senators)</hi> which are the Supplanters of our Proteſtant Intereſt, which indeed is our beſt Intereſt, are cer<g ref="char:EOLhyphen"/>tainly a pernicious woven Knot of malig<g ref="char:EOLhyphen"/>nant active Spirits Combining and Confe<g ref="char:EOLhyphen"/>derating to ſupplant the fundamental Laws and Principles of Government, on which the Religion and Government of the Kingdom are firmly eſtabliſhed, and of this ſort muſt there be theſe four. <hi>viz.</hi>
+            </p>
+            <p n="1">1. The <hi>firſt ſort</hi> are <hi>Jeſuited Papiſts,</hi> whoſe Teeth have long water'd for, and their ravenous Appetites hungered to devour our Religion.</p>
+            <p n="2">2. The <hi>ſecond ſort</hi> are <hi>Perſidious Papiſts</hi> in <hi>Proteſtant Maſques,</hi> of theſe too many have we lurking in <hi>England;</hi> theſe are Ene<g ref="char:EOLhyphen"/>mies very dangerous, becauſe moſt indiſcer<g ref="char:EOLhyphen"/>nable, their Enmity is hid under a Vizard of Friendſhip, and if in high places and great Imployments, do harm; for under a pretence of plucking down Popery they ſet the Structure the firmer; if poſſible, though ſecretly, they Act as much or more than the profeſſed Pa<g ref="char:EOLhyphen"/>piſts.</p>
+            <p n="3">3. The <hi>third ſort</hi> are <hi>Treacherous Courti<g ref="char:EOLhyphen"/>ers</hi> who may in a Penſionary way for beg<g ref="char:EOLhyphen"/>garly ſelfiſh ends engage themſelves to Fo<g ref="char:EOLhyphen"/>reign Princes, to the prejudice of their natu<g ref="char:EOLhyphen"/>ral King and State at home; <hi>(I don't ſay there are ſuch in</hi> England, but I wiſh there be none,) theſe may harm us exceedingly, be<g ref="char:EOLhyphen"/>ing politick men, and not unable through de<g ref="char:EOLhyphen"/>ficiency of parts to ſet on work their evil de<g ref="char:EOLhyphen"/>ſigns, having alſo the advantage of place ad<g ref="char:EOLhyphen"/>ded to the former; and generally it tends theſe four wayes.</p>
+            <p>Either firſt to work and win the <hi>King</hi> to ſtand ſtifly to his <hi>Royal Prerogative,</hi> and the People for the maintenance of their <hi>Liberties</hi> and <hi>Priviledges,</hi> thus ſeeming to ſide with the <hi>King</hi> againſt the Subject, would ſeem his faith<g ref="char:EOLhyphen"/>ful Servants and trueſt Friends, when for the World he would not, but the People alſo ſhould ſtand up for their <hi>Liberties,</hi> and ſo he fiſh in troubled waters to engroſs the more to himſelf.</p>
+            <p>Or Secondly, To Suppreſs Religion in its Purity, leſt that having a free courſe ſhould be an irreſiſtable ſtop to their deſigns; and tend to pull down that Religion which he imagines moſt likely to ſet up his Intereſt.</p>
+            <p>Or Thirdly, in Countenancing all of their own Stamp, to Diſgrace, Vilifie and Diſ<g ref="char:EOLhyphen"/>hearten all their oppoſite Party, rendering none the loyal party but themſelves and their adherers.</p>
+            <pb facs="tcp:93948:2" rendition="simple:additions"/>
+            <p>Or Fourthly, By Scandals to work in the <hi>King</hi> to diſaffect <hi>Parliaments,</hi> by miſcon<g ref="char:EOLhyphen"/>ſtructions, <hi>&amp;c.</hi> which is much to our loſs; <hi>I pray God</hi> England <hi>may have none ſuch evil Councellors.</hi>
+            </p>
+            <p n="4">4. But the <hi>fourth ſort</hi> of our Enemies are <hi>baſe Pamphleteers,</hi> who would gladly ſet us together by the Ears; which very much want ſuppreſſing.</p>
+            <p>Now theſe <hi>four Enemies</hi> of ours call us to take heed.</p>
+            <p>But <hi>(moſt Worthy Senators)</hi> to you do we appeal, and as we have choſen you our repreſentatives, to you do we refer it, whe<g ref="char:EOLhyphen"/>ther or no theſe be not our Enemies, and if they be, that you would act as the caſe requires.</p>
+            <p>Beſides other miſchiefs we ſuffer; As <hi>firſt,</hi> but that eſpecially in the Country, our faithfull Miniſters are thruſt into corners by ſuſpenſions and deprivations.</p>
+            <p>And ſecondly, with many the name of a Pa<g ref="char:EOLhyphen"/>piſt is exalted above that of a Presbyterian, a very horrid Shame, yea a Judgment, that Dif<g ref="char:EOLhyphen"/>fenting Proteſtants ſhould be reckoned worſe than real Papiſts: But we humbly con<g ref="char:EOLhyphen"/>ceive none do this but Papiſts in Prote<g ref="char:EOLhyphen"/>ſtant Maſques at the beſt.</p>
+            <p>And thirdly, The Plot to Aſſaſſinate his Majeſty, to Subvert the Government, ſo plainly proved, is with many not acknow<g ref="char:EOLhyphen"/>ledged, but rather turned into ridicule, and the Evidences ungratefully diſpara<g ref="char:EOLhyphen"/>ged.</p>
+            <p>And fourthly, Theſe times of uncertainty are a great let to <hi>Englands</hi> Proſperity, very few Sun-ſhining dayes have we en<g ref="char:EOLhyphen"/>joyed ſince this thick Cloud of Popiſh Plots have hung over our heads.</p>
+            <p>Fifthly, <hi>England</hi> hath been greatly Oppreſ<g ref="char:EOLhyphen"/>ſed by reaſon of the Suppreſſion of Religion, it hath Suffered in Fines, Stigmatizings, <hi>&amp;c.</hi>
+            </p>
+            <p>Sixthly, Evil Councellors, which Craftily Confederate that which tends to our harm; but let them remember, <hi>Malum Conſilium con<g ref="char:EOLhyphen"/>ſultori poſſimum,</hi> which may prove ſo in the long run.</p>
+            <p>Seventhly, Generally in the interval of the Parliaments Sitting <hi>(moſt Worthy Senators)</hi> how uſual is it for you to be Vilified and greatly contemned, your procedings to be aſ<g ref="char:EOLhyphen"/>perſed and beſmeared.</p>
+            <p>Eighthly, Our Enemies that have begun are reſtleſs till they finiſh; as impoſſible believe it <hi>(moſt Worthy Senators)</hi> to be for a ſtone caſt up in the Air when deſcending towards the Earth to reſt before it attains it center; their center is Miſchief, their Motion there<g ref="char:EOLhyphen"/>unto is reſtleſs: were it otherwiſe moſt, cer<g ref="char:EOLhyphen"/>tainly they muſt be treacherous to them<g ref="char:EOLhyphen"/>ſelves, becauſe unanimouſly joined to de<g ref="char:EOLhyphen"/>ſtroy us.</p>
+            <p>Having alſo attempted great things a<g ref="char:EOLhyphen"/>gainſt us, and being unvailed, ſuch an <hi>Odi<g ref="char:EOLhyphen"/>um</hi> ſtains their Name, that doubtleſly no<g ref="char:EOLhyphen"/>thing leſs than our blood will ſerve turn for them to waſh it off.</p>
+            <p>They alſo (we conceive) are grown to ſuch a height of Inſolency, that no leſs than a univerſal propagating of their wicked Cauſe over the <hi>European</hi> Parts, will ſatiſ<g ref="char:EOLhyphen"/>fie their Ambitious and Covetous pro<g ref="char:EOLhyphen"/>jects, faced with the pretence of a zeal to a ſuperſtitious Religion.</p>
+            <p>All their Tricks, Evaſions and Shamming Deſigns be laid as open as themſelves, and hereby their <hi>Odium</hi> much aggravated muſt needs enrage their deſperateneſs.</p>
+            <p>Which is a means of not abating our Jealouſies, which incite us to Vigilancy; for we expect no Mercy from them when upon us; but <hi>England</hi> has been made an Aſs of to bear the heavieſt Burthens, but now it is more skittiſh, and it's danger the more <hi>mans</hi> it with Valour.</p>
+            <p>And <hi>(moſt Worthy Senators)</hi> to your Conſideration refer we theſe two principal Props of our Proſperity. Firſt, Obſtruct<g ref="char:EOLhyphen"/>ing a Popiſh Succeſſor from Inheriting the Imperial Crown of this Realm. And Se<g ref="char:EOLhyphen"/>condly, In Uniting his Majeſties Subjects, which are to us of high Concern: For we appeal to you; what Mercy, Favour or Compaſſion would a Popiſh Prince exer<g ref="char:EOLhyphen"/>ciſe over Proteſtant Subjects? whether or no he would be falſe to his own Profeſſi<g ref="char:EOLhyphen"/>on, were he true to us, our Religion, Li<g ref="char:EOLhyphen"/>berties and Property? Our union alſo is a great Branch of our Felicity, in that it diſheartens all our Foes.</p>
+            <p>Therefore <hi>(Moſt Worthy Senators)</hi> as our Grievances are heavy, our Enemies many, our Jealouſies numerous and fearful, as all with us is at hazard, as <hi>Religion, Liberty, Property,</hi> and that you would be pleaſed to conſider your own and the Na<g ref="char:EOLhyphen"/>tions Good; which that you may do, Pray<g ref="char:EOLhyphen"/>eth the <hi>Engliſh Nation.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Janeway.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
